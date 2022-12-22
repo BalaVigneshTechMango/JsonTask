@@ -1,0 +1,22 @@
+{
+  "100": {
+    "WEB": {
+      "en-US": "Input fields are missing",
+      "en-IN": "Input fields are missing"
+    },
+    "MOBILE": {
+      "en-US": "Input fields are missing",
+      "en-IN": "Input fields are missing"
+    }
+  },
+  "101": {
+    "WEB": {
+      "en-US": "Please contact customer support",
+      "en-IN": "Please contact customer support"
+    },
+    "MOBILE": {
+      "en-US": "Please contact customer support",
+      "en-IN": "Please contact customer support"
+    }
+  }
+}
